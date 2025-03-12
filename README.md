@@ -38,6 +38,7 @@ Model performance metrics:
 - Balanced accuracy: 95.25% → Considering both sensitivity (recovery rate or true positives) and specificity (true negative rate), the model achieves a balanced accuracy of 95.30%.
 - Accuracy: 92.1% → Indicates that 92.1% of the positive predictions made by the model were correct.
 - Recovery score: 95.1% → Means that the model correctly identified 95.1% of the true positive values within the total positive predictions.
+  
 **Model evaluation and recommendation:**
   
  The implementation of this model is strongly recommended, as it offers an exceptional accuracy of more than 95% in predicting borrowers' repayment capacity. Its high level of accuracy not only optimizes lending decisions, but also allows for a precise adjustment of the business risk profile. This guarantees a stable capital flow, minimizes the risk of defaults and strengthens lenders' profitability, ensuring business sustainability and growth in the financial sector.
